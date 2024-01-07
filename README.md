@@ -35,9 +35,14 @@
 
 
 ###
-
-<br clear="both">
-
+<div align="left">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
 <img src="https://raw.githubusercontent.com/vaishnavpatil/vaishnavpatil/output/snake.svg" alt="Snake animation" />
+  <br/><br/><br/>
+</div>
+<
+
+
 
 ###
