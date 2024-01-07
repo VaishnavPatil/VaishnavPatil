@@ -34,3 +34,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavpatil&theme=light&disable_animations=false" alt="vaishnavpatil" width="500" height="250"/></p></div>
 
 
+<div align="left">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
