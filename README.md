@@ -33,6 +33,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavpatil&theme=light&disable_animations=false" alt="vaishnavpatil" width="500" height="250"/></p></div>
 
-
-
-![snake gif](https://github.com/VaishnavPatil/VaishnavPatil/blob/output/github-contribution-grid-snake.gif)
