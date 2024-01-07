@@ -33,3 +33,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavpatil&theme=light&disable_animations=false" alt="vaishnavpatil" width="500" height="250"/></p></div>
 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
