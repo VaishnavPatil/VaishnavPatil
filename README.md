@@ -41,7 +41,7 @@
 <img src="https://raw.githubusercontent.com/vaishnavpatil/vaishnavpatil/output/snake.svg" alt="Snake animation" />
   <br/><br/><br/>
 </div>
-<
+
 
 
 
